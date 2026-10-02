@@ -2,7 +2,7 @@
 
 A web app that turns a text prompt into a 3D model, shows it in an interactive viewer, and lets you download it.
 
-**Live demo:** _add your Render URL here_
+**Live demo:** https://oneimmersive-project.onrender.com
 
 ## Features
 
