@@ -160,6 +160,7 @@
       await showModel(`/api/model/${taskId}`);
       dl.href = `/api/model/${taskId}?download=true`;
       dl.classList.remove('hidden');
+      bar.style.width = '100%';
       setStatus('Done.');
     } catch (err) {
       setStatus(err.message || 'Something went wrong', true);
